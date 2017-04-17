@@ -1,0 +1,25 @@
+JFK,New York;Dollars;Statue of Liberty;502
+FCO,Rome;Euros;The Colosseum;1342
+LAX,Los Angeles;Dollars;Disneyland;117
+CDG,Paris;Euros;Eiffel Tower;1299
+TPE,Taipei;New Taiwan Dollars;Taipei 101;1224
+BUD,Budapest;Forints;Buda Castle;1299
+YOW,Ottawa;Canadian Dollars;Rideau Canal;351
+CUN,Cancun;Peso;Xcaret Park;404
+KEF,Reykjavik;Icelandic Krona;Viking World;1056
+LCY,London;Pounds Sterling (GBP);London Eye;1027
+PEK,Beijing;Renminbi;Imperial Palace;512
+DXB,Dubai;Dirham;Burj Khalifa;816
+ORD,Chicago;Dollars;Millennium Park;325
+HND,Tokyo;Japanese Yen;Tokyo Skytree;1017
+HKG,Hong Kong;Hong Kong Dollar;Victoria Peak;535
+DFW,Dallas;Dollar;Dallas World Aquarium;225
+IST,Istanbul;Turkish Lira;Hagia Sophia;437
+FRA,Frankfurt;Euro;Romer;1150
+PVG,Shanghai;Renminbi;Nanjing Road;565
+AMS,Amsterdam;Euro;Van Gogh Museum;1162
+SIN,Singapore;Singapore Dollar;Singapore Flyer;823
+ICN,Incheon;Won;Muuido;774
+MAD,Madrid;Euro;Plaza Mayor;931
+DEL,Delhi;Indian Rupee;The Red Fort;889
+MIA,Miami;Dollar;Jungle Island;316

@@ -1,0 +1,262 @@
+Enter any of the keys below to start the program.
+Note: ONLY ALL-CAPS WILL BE ACCEPTED, THUS THIS MENU IS CASE SENSITIVE.
+D - Depth-First Traversals: inorder, preorder, postorder
+B - Tree Breadth - First Traversals : Print by level
+S - Search by the primary key (student ID - unique key)
+M - Find the smallest
+X - Find the largest
+T - Print the BST as an indented list (show level numbers)
+H - Help - to show the menu, and
+E - Exit.
+D
+
+Calling preOrder:
+
+Displaying item, name, and GPA: 3800 Lee, Victor 2.8
+Displaying item, name, and GPA: 3000 Brown, Joanne 4.0
+Displaying item, name, and GPA: 1900 Walljasper, Bryan 3.9
+Displaying item, name, and GPA: 1500 Marcus, John 4.0
+Displaying item, name, and GPA: 2100 Andrews, Dennis 2.9
+Displaying item, name, and GPA: 2800 Brown, Joanne 2.6
+Displaying item, name, and GPA: 2500 Lee, Mary 3.8
+Displaying item, name, and GPA: 3500 Marcus, John 3.2
+Displaying item, name, and GPA: 3300 Lee, Victor 3.6
+Displaying item, name, and GPA: 4300 Trapp, Amanda Elizabeth 4.0
+Displaying item, name, and GPA: 3900 Brown, Joanne 3.5
+Displaying item, name, and GPA: 4200 Brown, Joanne 4.0
+Displaying item, name, and GPA: 5000 Lee, Lucy Marie 3.4
+
+Calling inOrder:
+
+Displaying item, name, and GPA: 1500 Marcus, John 4.0
+Displaying item, name, and GPA: 1900 Walljasper, Bryan 3.9
+Displaying item, name, and GPA: 2100 Andrews, Dennis 2.9
+Displaying item, name, and GPA: 2500 Lee, Mary 3.8
+Displaying item, name, and GPA: 2800 Brown, Joanne 2.6
+Displaying item, name, and GPA: 3000 Brown, Joanne 4.0
+Displaying item, name, and GPA: 3300 Lee, Victor 3.6
+Displaying item, name, and GPA: 3500 Marcus, John 3.2
+Displaying item, name, and GPA: 3800 Lee, Victor 2.8
+Displaying item, name, and GPA: 3900 Brown, Joanne 3.5
+Displaying item, name, and GPA: 4200 Brown, Joanne 4.0
+Displaying item, name, and GPA: 4300 Trapp, Amanda Elizabeth 4.0
+Displaying item, name, and GPA: 5000 Lee, Lucy Marie 3.4
+
+Calling postOrder:
+
+Displaying item, name, and GPA: 1500 Marcus, John 4.0
+Displaying item, name, and GPA: 2500 Lee, Mary 3.8
+Displaying item, name, and GPA: 2800 Brown, Joanne 2.6
+Displaying item, name, and GPA: 2100 Andrews, Dennis 2.9
+Displaying item, name, and GPA: 1900 Walljasper, Bryan 3.9
+Displaying item, name, and GPA: 3300 Lee, Victor 3.6
+Displaying item, name, and GPA: 3500 Marcus, John 3.2
+Displaying item, name, and GPA: 3000 Brown, Joanne 4.0
+Displaying item, name, and GPA: 4200 Brown, Joanne 4.0
+Displaying item, name, and GPA: 3900 Brown, Joanne 3.5
+Displaying item, name, and GPA: 5000 Lee, Lucy Marie 3.4
+Displaying item, name, and GPA: 4300 Trapp, Amanda Elizabeth 4.0
+Displaying item, name, and GPA: 3800 Lee, Victor 2.8
+
+Enter any of the keys below to start the program.
+Note: ONLY ALL-CAPS WILL BE ACCEPTED, THUS THIS MENU IS CASE SENSITIVE.
+D - Depth-First Traversals: inorder, preorder, postorder
+B - Tree Breadth - First Traversals : Print by level
+S - Search by the primary key (student ID - unique key)
+M - Find the smallest
+X - Find the largest
+T - Print the BST as an indented list (show level numbers)
+H - Help - to show the menu, and
+E - Exit.
+B
+
+Breadth-first traversal:
+
+Displaying item, name, and GPA: 3800 Lee, Victor 2.8
+Displaying item, name, and GPA: 3000 Brown, Joanne 4.0
+Displaying item, name, and GPA: 4300 Trapp, Amanda Elizabeth 4.0
+Displaying item, name, and GPA: 1900 Walljasper, Bryan 3.9
+Displaying item, name, and GPA: 3500 Marcus, John 3.2
+Displaying item, name, and GPA: 3900 Brown, Joanne 3.5
+Displaying item, name, and GPA: 5000 Lee, Lucy Marie 3.4
+Displaying item, name, and GPA: 1500 Marcus, John 4.0
+Displaying item, name, and GPA: 2100 Andrews, Dennis 2.9
+Displaying item, name, and GPA: 3300 Lee, Victor 3.6
+Displaying item, name, and GPA: 4200 Brown, Joanne 4.0
+Displaying item, name, and GPA: 2800 Brown, Joanne 2.6
+Displaying item, name, and GPA: 2500 Lee, Mary 3.8
+
+Enter any of the keys below to start the program.
+Note: ONLY ALL-CAPS WILL BE ACCEPTED, THUS THIS MENU IS CASE SENSITIVE.
+D - Depth-First Traversals: inorder, preorder, postorder
+B - Tree Breadth - First Traversals : Print by level
+S - Search by the primary key (student ID - unique key)
+M - Find the smallest
+X - Find the largest
+T - Print the BST as an indented list (show level numbers)
+H - Help - to show the menu, and
+E - Exit.
+S
+
+What student ID would you like to search for? 3800
+Node 3800 returns name and GPA: Lee, Victor 2.8!
+
+Enter any of the keys below to start the program.
+Note: ONLY ALL-CAPS WILL BE ACCEPTED, THUS THIS MENU IS CASE SENSITIVE.
+D - Depth-First Traversals: inorder, preorder, postorder
+B - Tree Breadth - First Traversals : Print by level
+S - Search by the primary key (student ID - unique key)
+M - Find the smallest
+X - Find the largest
+T - Print the BST as an indented list (show level numbers)
+H - Help - to show the menu, and
+E - Exit.
+S
+
+What student ID would you like to search for? 49304093209423094
+Node 49304093209423094 returns not found!
+
+Enter any of the keys below to start the program.
+Note: ONLY ALL-CAPS WILL BE ACCEPTED, THUS THIS MENU IS CASE SENSITIVE.
+D - Depth-First Traversals: inorder, preorder, postorder
+B - Tree Breadth - First Traversals : Print by level
+S - Search by the primary key (student ID - unique key)
+M - Find the smallest
+X - Find the largest
+T - Print the BST as an indented list (show level numbers)
+H - Help - to show the menu, and
+E - Exit.
+S
+
+What student ID would you like to search for? 2500
+Node 2500 returns name and GPA: Lee, Mary 3.8!
+
+Enter any of the keys below to start the program.
+Note: ONLY ALL-CAPS WILL BE ACCEPTED, THUS THIS MENU IS CASE SENSITIVE.
+D - Depth-First Traversals: inorder, preorder, postorder
+B - Tree Breadth - First Traversals : Print by level
+S - Search by the primary key (student ID - unique key)
+M - Find the smallest
+X - Find the largest
+T - Print the BST as an indented list (show level numbers)
+H - Help - to show the menu, and
+E - Exit.
+S
+
+What student ID would you like to search for? 1300
+Node 1300 returns not found!
+
+Enter any of the keys below to start the program.
+Note: ONLY ALL-CAPS WILL BE ACCEPTED, THUS THIS MENU IS CASE SENSITIVE.
+D - Depth-First Traversals: inorder, preorder, postorder
+B - Tree Breadth - First Traversals : Print by level
+S - Search by the primary key (student ID - unique key)
+M - Find the smallest
+X - Find the largest
+T - Print the BST as an indented list (show level numbers)
+H - Help - to show the menu, and
+E - Exit.
+S
+
+What student ID would you like to search for? 1500
+Node 1500 returns name and GPA: Marcus, John 4.0!
+
+Enter any of the keys below to start the program.
+Note: ONLY ALL-CAPS WILL BE ACCEPTED, THUS THIS MENU IS CASE SENSITIVE.
+D - Depth-First Traversals: inorder, preorder, postorder
+B - Tree Breadth - First Traversals : Print by level
+S - Search by the primary key (student ID - unique key)
+M - Find the smallest
+X - Find the largest
+T - Print the BST as an indented list (show level numbers)
+H - Help - to show the menu, and
+E - Exit.
+s
+The key that you inputted is not apart of the menu! Please try again.
+
+Enter any of the keys below to start the program.
+Note: ONLY ALL-CAPS WILL BE ACCEPTED, THUS THIS MENU IS CASE SENSITIVE.
+D - Depth-First Traversals: inorder, preorder, postorder
+B - Tree Breadth - First Traversals : Print by level
+S - Search by the primary key (student ID - unique key)
+M - Find the smallest
+X - Find the largest
+T - Print the BST as an indented list (show level numbers)
+H - Help - to show the menu, and
+E - Exit.
+M
+The smallest value is key 1500: Marcus, John 4.0.
+
+Enter any of the keys below to start the program.
+Note: ONLY ALL-CAPS WILL BE ACCEPTED, THUS THIS MENU IS CASE SENSITIVE.
+D - Depth-First Traversals: inorder, preorder, postorder
+B - Tree Breadth - First Traversals : Print by level
+S - Search by the primary key (student ID - unique key)
+M - Find the smallest
+X - Find the largest
+T - Print the BST as an indented list (show level numbers)
+H - Help - to show the menu, and
+E - Exit.
+X
+The largest value is key 5000: Lee, Lucy Marie 3.4.
+
+Enter any of the keys below to start the program.
+Note: ONLY ALL-CAPS WILL BE ACCEPTED, THUS THIS MENU IS CASE SENSITIVE.
+D - Depth-First Traversals: inorder, preorder, postorder
+B - Tree Breadth - First Traversals : Print by level
+S - Search by the primary key (student ID - unique key)
+M - Find the smallest
+X - Find the largest
+T - Print the BST as an indented list (show level numbers)
+H - Help - to show the menu, and
+E - Exit.
+T
+1: 3800 Lee, Victor 2.8
+        2: 3000 Brown, Joanne 4.0
+                3: 1900 Walljasper, Bryan 3.9
+                        4: 1500 Marcus, John 4.0
+                        4: 2100 Andrews, Dennis 2.9
+                                5: 2800 Brown, Joanne 2.6
+                                        6: 2500 Lee, Mary 3.8
+                3: 3500 Marcus, John 3.2
+                        4: 3300 Lee, Victor 3.6
+        2: 4300 Trapp, Amanda Elizabeth 4.0
+                3: 3900 Brown, Joanne 3.5
+                        4: 4200 Brown, Joanne 4.0
+                3: 5000 Lee, Lucy Marie 3.4
+Enter any of the keys below to start the program.
+Note: ONLY ALL-CAPS WILL BE ACCEPTED, THUS THIS MENU IS CASE SENSITIVE.
+D - Depth-First Traversals: inorder, preorder, postorder
+B - Tree Breadth - First Traversals : Print by level
+S - Search by the primary key (student ID - unique key)
+M - Find the smallest
+X - Find the largest
+T - Print the BST as an indented list (show level numbers)
+H - Help - to show the menu, and
+E - Exit.
+H
+
+Enter any of the keys below to start the program.
+Note: ONLY ALL-CAPS WILL BE ACCEPTED, THUS THIS MENU IS CASE SENSITIVE.
+D - Depth-First Traversals: inorder, preorder, postorder
+B - Tree Breadth - First Traversals : Print by level
+S - Search by the primary key (student ID - unique key)
+M - Find the smallest
+X - Find the largest
+T - Print the BST as an indented list (show level numbers)
+H - Help - to show the menu, and
+E - Exit.
+e
+The key that you inputted is not apart of the menu! Please try again.
+
+Enter any of the keys below to start the program.
+Note: ONLY ALL-CAPS WILL BE ACCEPTED, THUS THIS MENU IS CASE SENSITIVE.
+D - Depth-First Traversals: inorder, preorder, postorder
+B - Tree Breadth - First Traversals : Print by level
+S - Search by the primary key (student ID - unique key)
+M - Find the smallest
+X - Find the largest
+T - Print the BST as an indented list (show level numbers)
+H - Help - to show the menu, and
+E - Exit.
+E

@@ -1,0 +1,470 @@
+Welcome to the vacation trip planner!
+
+In here, you will be able to view the airport code and its respective city, currency, location, and ticket prices from SFO to target destination.
+
+Please enter any of the following keys below to access their functions:
+
+I - Insert Manager
+D - Delete Manager
+N - Undo Delete
+L - List Manager
+S - Search Manager
+E - Exit Program
+l
+U - Print the list by unsorted order (in hash table sequence).
+P - Print the list by primary key order.
+S - Print the list by secondary key order.
+I - Print the list in (primary) indent order.
+B - Go back to the main menu.
+u
+Hash Table:
+DXB                     Dubai  Dirham                   Burj Khalifa               816
+FCO                      Rome  Euros                    The Colosseum             1342
+MAD                    Madrid  Euro                     Plaza Mayor                931
+LAX               Los Angeles  Dollars                  Disneyland                 117
+SIN                 Singapore  Singapore Dollar         Singapore Flyer            823
+JFK                  New York  Dollars                  Statue of Liberty          502
+HKG                 Hong Kong  Hong Kong Dollar         Victoria Peak              535
+MIA                     Miami  Dollar                   Jungle Island              316
+BUD                  Budapest  Forints                  Buda Castle               1299
+FRA                 Frankfurt  Euro                     Romer                     1150
+IST                  Istanbul  Turkish Lira             Hagia Sophia               437
+ORD                   Chicago  Dollars                  Millennium Park            325
+PVG                  Shanghai  Renminbi                 Nanjing Road               565
+CDG                     Paris  Euros                    Eiffel Tower              1299
+YOW                    Ottawa  Canadian Dollars         Rideau Canal               351
+DEL                     Delhi  Indian Rupee             The Red Fort               889
+ICN                   Incheon  Won                      Muuido                     774
+PEK                   Beijing  Renminbi                 Imperial Palace            512
+LCY                    London  Pounds Sterling (GBP)    London Eye                1027
+TPE                    Taipei  New Taiwan Dollars       Taipei 101                1224
+CUN                    Cancun  Peso                     Xcaret Park                404
+AMS                 Amsterdam  Euro                     Van Gogh Museum           1162
+KEF                 Reykjavik  Icelandic Krona          Viking World              1056
+HND                     Tokyo  Japanese Yen             Tokyo Skytree             1017
+DFW                    Dallas  Dollar                   Dallas World Aquarium      225
+ Table size: 53
+ Total number of elements: 25
+ Total number of Collisions: 3
+ Total load Factor: 20/53 => 37.74%
+Please enter any of the following keys below to access their functions:
+
+I - Insert Manager
+D - Delete Manager
+N - Undo Delete
+L - List Manager
+S - Search Manager
+E - Exit Program
+l
+U - Print the list by unsorted order (in hash table sequence).
+P - Print the list by primary key order.
+S - Print the list by secondary key order.
+I - Print the list in (primary) indent order.
+B - Go back to the main menu.
+p
+AMS                 Amsterdam  Euro                     Van Gogh Museum        1162.00
+BUD                  Budapest  Forints                  Buda Castle            1299.00
+CDG                     Paris  Euros                    Eiffel Tower           1299.00
+CUN                    Cancun  Peso                     Xcaret Park             404.00
+DEL                     Delhi  Indian Rupee             The Red Fort            889.00
+DFW                    Dallas  Dollar                   Dallas World Aquarium   225.00
+DXB                     Dubai  Dirham                   Burj Khalifa            816.00
+FCO                      Rome  Euros                    The Colosseum          1342.00
+FRA                 Frankfurt  Euro                     Romer                  1150.00
+HKG                 Hong Kong  Hong Kong Dollar         Victoria Peak           535.00
+HND                     Tokyo  Japanese Yen             Tokyo Skytree          1017.00
+ICN                   Incheon  Won                      Muuido                  774.00
+IST                  Istanbul  Turkish Lira             Hagia Sophia            437.00
+JFK                  New York  Dollars                  Statue of Liberty       502.00
+KEF                 Reykjavik  Icelandic Krona          Viking World           1056.00
+LAX               Los Angeles  Dollars                  Disneyland              117.00
+LCY                    London  Pounds Sterling (GBP)    London Eye             1027.00
+MAD                    Madrid  Euro                     Plaza Mayor             931.00
+MIA                     Miami  Dollar                   Jungle Island           316.00
+ORD                   Chicago  Dollars                  Millennium Park         325.00
+PEK                   Beijing  Renminbi                 Imperial Palace         512.00
+PVG                  Shanghai  Renminbi                 Nanjing Road            565.00
+SIN                 Singapore  Singapore Dollar         Singapore Flyer         823.00
+TPE                    Taipei  New Taiwan Dollars       Taipei 101             1224.00
+YOW                    Ottawa  Canadian Dollars         Rideau Canal            351.00
+Please enter any of the following keys below to access their functions:
+
+I - Insert Manager
+D - Delete Manager
+N - Undo Delete
+L - List Manager
+S - Search Manager
+E - Exit Program
+l
+U - Print the list by unsorted order (in hash table sequence).
+P - Print the list by primary key order.
+S - Print the list by secondary key order.
+I - Print the list in (primary) indent order.
+B - Go back to the main menu.
+s
+AMS                 Amsterdam  Euro                     Van Gogh Museum        1162.00
+PEK                   Beijing  Renminbi                 Imperial Palace         512.00
+BUD                  Budapest  Forints                  Buda Castle            1299.00
+CUN                    Cancun  Peso                     Xcaret Park             404.00
+ORD                   Chicago  Dollars                  Millennium Park         325.00
+DFW                    Dallas  Dollar                   Dallas World Aquarium   225.00
+DEL                     Delhi  Indian Rupee             The Red Fort            889.00
+DXB                     Dubai  Dirham                   Burj Khalifa            816.00
+FRA                 Frankfurt  Euro                     Romer                  1150.00
+HKG                 Hong Kong  Hong Kong Dollar         Victoria Peak           535.00
+ICN                   Incheon  Won                      Muuido                  774.00
+IST                  Istanbul  Turkish Lira             Hagia Sophia            437.00
+LCY                    London  Pounds Sterling (GBP)    London Eye             1027.00
+LAX               Los Angeles  Dollars                  Disneyland              117.00
+MAD                    Madrid  Euro                     Plaza Mayor             931.00
+MIA                     Miami  Dollar                   Jungle Island           316.00
+JFK                  New York  Dollars                  Statue of Liberty       502.00
+YOW                    Ottawa  Canadian Dollars         Rideau Canal            351.00
+CDG                     Paris  Euros                    Eiffel Tower           1299.00
+KEF                 Reykjavik  Icelandic Krona          Viking World           1056.00
+FCO                      Rome  Euros                    The Colosseum          1342.00
+PVG                  Shanghai  Renminbi                 Nanjing Road            565.00
+SIN                 Singapore  Singapore Dollar         Singapore Flyer         823.00
+TPE                    Taipei  New Taiwan Dollars       Taipei 101             1224.00
+HND                     Tokyo  Japanese Yen             Tokyo Skytree          1017.00
+Please enter any of the following keys below to access their functions:
+
+I - Insert Manager
+D - Delete Manager
+N - Undo Delete
+L - List Manager
+S - Search Manager
+E - Exit Program
+l
+U - Print the list by unsorted order (in hash table sequence).
+P - Print the list by primary key order.
+S - Print the list by secondary key order.
+I - Print the list in (primary) indent order.
+B - Go back to the main menu.
+i
+1: JFK New York Dollars Statue of Liberty 502.00
+        2: FCO Rome Euros The Colosseum 1342.00
+                3: CDG Paris Euros Eiffel Tower 1299.00
+                        4: BUD Budapest Forints Buda Castle 1299.00
+                                5: AMS Amsterdam Euro Van Gogh Museum 1162.00
+                        4: CUN Cancun Peso Xcaret Park 404.00
+                                5: DXB Dubai Dirham Burj Khalifa 816.00
+                                        6: DFW Dallas Dollar Dallas World Aquarium 225.00
+                                                7: DEL Delhi Indian Rupee The Red Fort 889.00
+                3: HND Tokyo Japanese Yen Tokyo Skytree 1017.00
+                        4: HKG Hong Kong Hong Kong Dollar Victoria Peak 535.00
+                                5: FRA Frankfurt Euro Romer 1150.00
+                        4: IST Istanbul Turkish Lira Hagia Sophia 437.00
+                                5: ICN Incheon Won Muuido 774.00
+        2: LAX Los Angeles Dollars Disneyland 117.00
+                3: KEF Reykjavik Icelandic Krona Viking World 1056.00
+                3: TPE Taipei New Taiwan Dollars Taipei 101 1224.00
+                        4: LCY London Pounds Sterling (GBP) London Eye 1027.00
+                                5: PEK Beijing Renminbi Imperial Palace 512.00
+                                        6: ORD Chicago Dollars Millennium Park 325.00
+                                                7: MAD Madrid Euro Plaza Mayor 931.00
+                                                        8: MIA Miami Dollar Jungle Island 316.00
+                                        6: PVG Shanghai Renminbi Nanjing Road 565.00
+                                                7: SIN Singapore Singapore Dollar Singapore Flyer 823.00
+                        4: YOW Ottawa Canadian Dollars Rideau Canal 351.00
+
+Please enter any of the following keys below to access their functions:
+
+I - Insert Manager
+D - Delete Manager
+N - Undo Delete
+L - List Manager
+S - Search Manager
+E - Exit Program
+s
+P - Search for an airport code.
+S - Search for a city.
+B - Go back to the main menu.
+p
+Please enter the airport code: LAX
+FOUND:
+LAX               Los Angeles  Dollars                  Disneyland              117.00
+Please enter any of the following keys below to access their functions:
+
+I - Insert Manager
+D - Delete Manager
+N - Undo Delete
+L - List Manager
+S - Search Manager
+E - Exit Program
+s
+P - Search for an airport code.
+S - Search for a city.
+B - Go back to the main menu.
+s
+Please enter the city: Chicago
+ORD                   Chicago  Dollars                  Millennium Park         325.00
+Please enter any of the following keys below to access their functions:
+
+I - Insert Manager
+D - Delete Manager
+N - Undo Delete
+L - List Manager
+S - Search Manager
+E - Exit Program
+i
+Please enter the airport code: SJC
+Please enter the desired city: San Jose
+Please enter the country's currency: Dollars
+Please enter the most popular location: Downtown
+Please enter the ticket price from SFO to the destination: 999
+Please enter any of the following keys below to access their functions:
+
+I - Insert Manager
+D - Delete Manager
+N - Undo Delete
+L - List Manager
+S - Search Manager
+E - Exit Program
+i
+Please enter the airport code: SJC
+Code already exists
+Please enter any of the following keys below to access their functions:
+
+I - Insert Manager
+D - Delete Manager
+N - Undo Delete
+L - List Manager
+S - Search Manager
+E - Exit Program
+d
+What airport code would you like to delete?
+ORD
+The node has been removed!
+Please enter any of the following keys below to access their functions:
+
+I - Insert Manager
+D - Delete Manager
+N - Undo Delete
+L - List Manager
+S - Search Manager
+E - Exit Program
+d
+What airport code would you like to delete?
+JFK
+The node has been removed!
+Please enter any of the following keys below to access their functions:
+
+I - Insert Manager
+D - Delete Manager
+N - Undo Delete
+L - List Manager
+S - Search Manager
+E - Exit Program
+l
+U - Print the list by unsorted order (in hash table sequence).
+P - Print the list by primary key order.
+S - Print the list by secondary key order.
+I - Print the list in (primary) indent order.
+B - Go back to the main menu.
+i
+1: KEF Reykjavik Icelandic Krona Viking World 1056.00
+        2: FCO Rome Euros The Colosseum 1342.00
+                3: CDG Paris Euros Eiffel Tower 1299.00
+                        4: BUD Budapest Forints Buda Castle 1299.00
+                                5: AMS Amsterdam Euro Van Gogh Museum 1162.00
+                        4: CUN Cancun Peso Xcaret Park 404.00
+                                5: DXB Dubai Dirham Burj Khalifa 816.00
+                                        6: DFW Dallas Dollar Dallas World Aquarium 225.00
+                                                7: DEL Delhi Indian Rupee The Red Fort 889.00
+                3: HND Tokyo Japanese Yen Tokyo Skytree 1017.00
+                        4: HKG Hong Kong Hong Kong Dollar Victoria Peak 535.00
+                                5: FRA Frankfurt Euro Romer 1150.00
+                        4: IST Istanbul Turkish Lira Hagia Sophia 437.00
+                                5: ICN Incheon Won Muuido 774.00
+        2: LAX Los Angeles Dollars Disneyland 117.00
+                3: TPE Taipei New Taiwan Dollars Taipei 101 1224.00
+                        4: LCY London Pounds Sterling (GBP) London Eye 1027.00
+                                5: PEK Beijing Renminbi Imperial Palace 512.00
+                                        6: MAD Madrid Euro Plaza Mayor 931.00
+                                                7: MIA Miami Dollar Jungle Island 316.00
+                                        6: PVG Shanghai Renminbi Nanjing Road 565.00
+                                                7: SIN Singapore Singapore Dollar Singapore Flyer 823.00
+                                                        8: SJC San Jose Dollars Downtown 999.00
+                        4: YOW Ottawa Canadian Dollars Rideau Canal 351.00
+
+Please enter any of the following keys below to access their functions:
+
+I - Insert Manager
+D - Delete Manager
+N - Undo Delete
+L - List Manager
+S - Search Manager
+E - Exit Program
+l
+U - Print the list by unsorted order (in hash table sequence).
+P - Print the list by primary key order.
+S - Print the list by secondary key order.
+I - Print the list in (primary) indent order.
+B - Go back to the main menu.
+u
+Hash Table:
+DXB                     Dubai  Dirham                   Burj Khalifa            816.00
+FCO                      Rome  Euros                    The Colosseum          1342.00
+MAD                    Madrid  Euro                     Plaza Mayor             931.00
+LAX               Los Angeles  Dollars                  Disneyland              117.00
+SIN                 Singapore  Singapore Dollar         Singapore Flyer         823.00
+HKG                 Hong Kong  Hong Kong Dollar         Victoria Peak           535.00
+MIA                     Miami  Dollar                   Jungle Island           316.00
+BUD                  Budapest  Forints                  Buda Castle            1299.00
+FRA                 Frankfurt  Euro                     Romer                  1150.00
+IST                  Istanbul  Turkish Lira             Hagia Sophia            437.00
+PVG                  Shanghai  Renminbi                 Nanjing Road            565.00
+CDG                     Paris  Euros                    Eiffel Tower           1299.00
+YOW                    Ottawa  Canadian Dollars         Rideau Canal            351.00
+DEL                     Delhi  Indian Rupee             The Red Fort            889.00
+ICN                   Incheon  Won                      Muuido                  774.00
+PEK                   Beijing  Renminbi                 Imperial Palace         512.00
+LCY                    London  Pounds Sterling (GBP)    London Eye             1027.00
+TPE                    Taipei  New Taiwan Dollars       Taipei 101             1224.00
+CUN                    Cancun  Peso                     Xcaret Park             404.00
+AMS                 Amsterdam  Euro                     Van Gogh Museum        1162.00
+KEF                 Reykjavik  Icelandic Krona          Viking World           1056.00
+HND                     Tokyo  Japanese Yen             Tokyo Skytree          1017.00
+SJC                  San Jose  Dollars                  Downtown                999.00
+DFW                    Dallas  Dollar                   Dallas World Aquarium   225.00
+ Table size: 53
+ Total number of elements: 24
+ Total number of Collisions: 3
+ Total load Factor: 20/53 => 37.74%
+Please enter any of the following keys below to access their functions:
+
+I - Insert Manager
+D - Delete Manager
+N - Undo Delete
+L - List Manager
+S - Search Manager
+E - Exit Program
+l
+U - Print the list by unsorted order (in hash table sequence).
+P - Print the list by primary key order.
+S - Print the list by secondary key order.
+I - Print the list in (primary) indent order.
+B - Go back to the main menu.
+p
+AMS                 Amsterdam  Euro                     Van Gogh Museum        1162.00
+BUD                  Budapest  Forints                  Buda Castle            1299.00
+CDG                     Paris  Euros                    Eiffel Tower           1299.00
+CUN                    Cancun  Peso                     Xcaret Park             404.00
+DEL                     Delhi  Indian Rupee             The Red Fort            889.00
+DFW                    Dallas  Dollar                   Dallas World Aquarium   225.00
+DXB                     Dubai  Dirham                   Burj Khalifa            816.00
+FCO                      Rome  Euros                    The Colosseum          1342.00
+FRA                 Frankfurt  Euro                     Romer                  1150.00
+HKG                 Hong Kong  Hong Kong Dollar         Victoria Peak           535.00
+HND                     Tokyo  Japanese Yen             Tokyo Skytree          1017.00
+ICN                   Incheon  Won                      Muuido                  774.00
+IST                  Istanbul  Turkish Lira             Hagia Sophia            437.00
+KEF                 Reykjavik  Icelandic Krona          Viking World           1056.00
+LAX               Los Angeles  Dollars                  Disneyland              117.00
+LCY                    London  Pounds Sterling (GBP)    London Eye             1027.00
+MAD                    Madrid  Euro                     Plaza Mayor             931.00
+MIA                     Miami  Dollar                   Jungle Island           316.00
+PEK                   Beijing  Renminbi                 Imperial Palace         512.00
+PVG                  Shanghai  Renminbi                 Nanjing Road            565.00
+SIN                 Singapore  Singapore Dollar         Singapore Flyer         823.00
+SJC                  San Jose  Dollars                  Downtown                999.00
+TPE                    Taipei  New Taiwan Dollars       Taipei 101             1224.00
+YOW                    Ottawa  Canadian Dollars         Rideau Canal            351.00
+Please enter any of the following keys below to access their functions:
+
+I - Insert Manager
+D - Delete Manager
+N - Undo Delete
+L - List Manager
+S - Search Manager
+E - Exit Program
+s
+P - Search for an airport code.
+S - Search for a city.
+B - Go back to the main menu.
+p
+Please enter the airport code: SJC
+FOUND:
+SJC                  San Jose  Dollars                  Downtown                999.00
+Please enter any of the following keys below to access their functions:
+
+I - Insert Manager
+D - Delete Manager
+N - Undo Delete
+L - List Manager
+S - Search Manager
+E - Exit Program
+n
+Deleted item restored!
+Please enter any of the following keys below to access their functions:
+
+I - Insert Manager
+D - Delete Manager
+N - Undo Delete
+L - List Manager
+S - Search Manager
+E - Exit Program
+n
+Deleted item restored!
+Please enter any of the following keys below to access their functions:
+
+I - Insert Manager
+D - Delete Manager
+N - Undo Delete
+L - List Manager
+S - Search Manager
+E - Exit Program
+n
+Nothing has been deleted.
+Please enter any of the following keys below to access their functions:
+
+I - Insert Manager
+D - Delete Manager
+N - Undo Delete
+L - List Manager
+S - Search Manager
+E - Exit Program
+l
+U - Print the list by unsorted order (in hash table sequence).
+P - Print the list by primary key order.
+S - Print the list by secondary key order.
+I - Print the list in (primary) indent order.
+B - Go back to the main menu.
+i
+1: KEF Reykjavik Icelandic Krona Viking World 1056.00
+        2: FCO Rome Euros The Colosseum 1342.00
+                3: CDG Paris Euros Eiffel Tower 1299.00
+                        4: BUD Budapest Forints Buda Castle 1299.00
+                                5: AMS Amsterdam Euro Van Gogh Museum 1162.00
+                        4: CUN Cancun Peso Xcaret Park 404.00
+                                5: DXB Dubai Dirham Burj Khalifa 816.00
+                                        6: DFW Dallas Dollar Dallas World Aquarium 225.00
+                                                7: DEL Delhi Indian Rupee The Red Fort 889.00
+                3: HND Tokyo Japanese Yen Tokyo Skytree 1017.00
+                        4: HKG Hong Kong Hong Kong Dollar Victoria Peak 535.00
+                                5: FRA Frankfurt Euro Romer 1150.00
+                        4: IST Istanbul Turkish Lira Hagia Sophia 437.00
+                                5: ICN Incheon Won Muuido 774.00
+                                5: JFK New York Dollars Statue of Liberty 502.00
+        2: LAX Los Angeles Dollars Disneyland 117.00
+                3: TPE Taipei New Taiwan Dollars Taipei 101 1224.00
+                        4: LCY London Pounds Sterling (GBP) London Eye 1027.00
+                                5: PEK Beijing Renminbi Imperial Palace 512.00
+                                        6: MAD Madrid Euro Plaza Mayor 931.00
+                                                7: MIA Miami Dollar Jungle Island 316.00
+                                                        8: ORD Chicago Dollars Millennium Park 325.00
+                                        6: PVG Shanghai Renminbi Nanjing Road 565.00
+                                                7: SIN Singapore Singapore Dollar Singapore Flyer 823.00
+                                                        8: SJC San Jose Dollars Downtown 999.00
+                        4: YOW Ottawa Canadian Dollars Rideau Canal 351.00
+
+Please enter any of the following keys below to access their functions:
+
+I - Insert Manager
+D - Delete Manager
+N - Undo Delete
+L - List Manager
+S - Search Manager
+E - Exit Program
+e

@@ -1,0 +1,25 @@
+AMS                 Amsterdam  Euro                     Van Gogh Museum           1162
+BUD                  Budapest  Forints                  Buda Castle               1299
+CDG                     Paris  Euros                    Eiffel Tower              1299
+CUN                    Cancun  Peso                     Xcaret Park                404
+DEL                     Delhi  Indian Rupee             The Red Fort               889
+DFW                    Dallas  Dollar                   Dallas World Aquarium      225
+DXB                     Dubai  Dirham                   Burj Khalifa               816
+FCO                      Rome  Euros                    The Colosseum             1342
+FRA                 Frankfurt  Euro                     Romer                     1150
+HKG                 Hong Kong  Hong Kong Dollar         Victoria Peak              535
+HND                     Tokyo  Japanese Yen             Tokyo Skytree             1017
+ICN                   Incheon  Won                      Muuido                     774
+IST                  Istanbul  Turkish Lira             Hagia Sophia               437
+JFK                  New York  Dollars                  Statue of Liberty          502
+KEF                 Reykjavik  Icelandic Krona          Viking World              1056
+LAX               Los Angeles  Dollars                  Disneyland                 117
+LCY                    London  Pounds Sterling (GBP)    London Eye                1027
+MAD                    Madrid  Euro                     Plaza Mayor                931
+MIA                     Miami  Dollar                   Jungle Island              316
+ORD                   Chicago  Dollars                  Millennium Park            325
+PEK                   Beijing  Renminbi                 Imperial Palace            512
+PVG                  Shanghai  Renminbi                 Nanjing Road               565
+SIN                 Singapore  Singapore Dollar         Singapore Flyer            823
+TPE                    Taipei  New Taiwan Dollars       Taipei 101                1224
+YOW                    Ottawa  Canadian Dollars         Rideau Canal               351
